@@ -1,0 +1,60 @@
+*{
+    font-family: fantasy;
+}
+.Container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Justify-Center{
+    justify-content: center;
+}
+.Navigation{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    border-color: black;
+}
+.Title{
+    border-style: solid;
+    border-color: black;
+}
+.Main{
+    border-style: solid;
+    border-color: black;
+}
+.Profile{
+    flex: 1;
+    border-style: solid;
+    border-color: black;
+}
+.Status{
+    flex: 2;
+    border-style: solid;
+    border-color: black;
+}
+.Niel{
+    border-style: solid;
+    border-color: black;
+}
+.Nicole{
+    border-style: solid;
+    border-color: black;
+}
+.Jim{
+    border-style: solid;
+    border-color: black;
+}
+.Name{
+    border-style: solid;
+    border-color: black;
+}
+.Buttons{
+    border-style: solid;
+    border-color: black;
+}
+.Details{
+    border-style: solid;
+    border-color: black;
+}
