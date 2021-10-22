@@ -1,0 +1,43 @@
+*{
+    font-family: fantasy;
+}
+body{
+    margin: 0;
+}
+.Container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Justify-Center{
+    justify-content: center;
+}
+
+.Navigation{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Terms{
+    background-color: paleturquoise;
+}
+.Noun{
+    background-color: cyan;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+}
+.Word{
+    flex:1
+}
+
+.AddDefinition{
+    background-color: cyan;
+    border-style: solid;
+    border-color: black;
+}
+.Definition{
+    flex: 2;
+    text-align: center;
+}
