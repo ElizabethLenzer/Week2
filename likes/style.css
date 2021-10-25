@@ -1,5 +1,8 @@
 *{
-    font-family: fantasy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0%;
 }
 .Container{
     display: flex;
@@ -13,48 +16,50 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border-style: solid;
-    border-color: black;
+    height: 50px;
+    margin-top: 0;
+    font-size: xx-large;
 }
 .Title{
-    border-style: solid;
-    border-color: black;
+    justify-content: center;
 }
 .Main{
-    border-style: solid;
-    border-color: black;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    margin: 0;
 }
 .Profile{
     flex: 1;
-    border-style: solid;
-    border-color: black;
+    width: 25%;
 }
 .Status{
-    flex: 2;
-    border-style: solid;
-    border-color: black;
+    flex: 1;
+    width: 50%;
 }
-.Niel{
+.Neil{
     border-style: solid;
     border-color: black;
 }
 .Nicole{
-    border-style: solid;
-    border-color: black;
+margin-top: 40px;
+border-style: solid;
+border-color: black;
 }
 .Jim{
-    border-style: solid;
-    border-color: black;
+margin-top: 40px;
+border-style: solid;
+border-color: black;
 }
 .Name{
-    border-style: solid;
-    border-color: black;
+    font-size: xx-large;
+    justify-content: space-between;
 }
-.Buttons{
-    border-style: solid;
-    border-color: black;
+.Buttons1{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
 }
 .Details{
-    border-style: solid;
-    border-color: black;
+
 }
